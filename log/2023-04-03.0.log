@@ -1,0 +1,118 @@
+2023-04-03 00:00:01,588 INFO (Collect.java:35)- 日活量信息入库，昨日数据:[0]，
+2023-04-03 09:41:56,041 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-JPQUPA2 with PID 18684 (started by DELL in D:\Desktop\ntf - 副本 (2))
+2023-04-03 09:41:56,041 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-04-03 09:42:29,924 INFO (StartupInfoLogger.java:59)- Started NtfApplication in 35.943 seconds (JVM running for 41.677)
+2023-04-03 09:42:54,028 INFO (JWTTokenFilter.java:109)- filter preHandler /
+2023-04-03 09:42:54,030 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/
+2023-04-03 09:42:54,322 INFO (JWTTokenFilter.java:109)- filter preHandler /
+2023-04-03 09:42:54,331 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/
+2023-04-03 09:42:54,441 INFO (JWTTokenFilter.java:109)- filter preHandler /
+2023-04-03 09:42:54,442 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/
+2023-04-03 11:17:27,102 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 11:17:27,130 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 11:18:20,225 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 11:18:20,228 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 11:18:27,204 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 11:18:27,206 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 11:18:33,586 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 11:18:33,587 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 11:18:47,764 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 11:18:47,765 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 11:23:44,479 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 11:23:44,480 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 11:25:39,995 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 11:25:39,996 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 11:25:51,783 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 11:25:51,784 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 11:26:05,758 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 11:26:05,760 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 11:30:31,759 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 11:30:31,761 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 11:39:26,692 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 11:39:26,694 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 11:40:23,738 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 11:40:23,739 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 12:34:54,972 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 12:34:54,979 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 13:30:02,259 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 13:30:02,260 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 13:31:41,735 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-JPQUPA2 with PID 10632 (started by DELL in D:\Desktop\ntf - 副本 (2))
+2023-04-03 13:31:41,736 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-04-03 13:33:32,037 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-JPQUPA2 with PID 15228 (started by DELL in D:\Desktop\ntf - 副本 (2))
+2023-04-03 13:33:32,037 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-04-03 13:34:01,000 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-JPQUPA2 with PID 18540 (started by DELL in D:\Desktop\ntf - 副本 (2))
+2023-04-03 13:34:01,001 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-04-03 13:34:15,013 INFO (StartupInfoLogger.java:59)- Started NtfApplication in 14.637 seconds (JVM running for 16.079)
+2023-04-03 13:36:20,433 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 13:36:20,434 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 13:36:23,587 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 13:36:23,589 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 13:36:54,775 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 13:36:54,776 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 13:46:46,749 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 13:46:46,751 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 14:48:55,507 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 14:48:55,524 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 14:49:36,802 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 14:49:36,803 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 14:51:23,869 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 14:51:23,870 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 14:55:58,655 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 14:55:58,656 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 15:09:45,172 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 15:09:45,180 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 15:09:53,523 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 15:09:53,525 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 15:20:02,839 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 15:20:02,841 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 15:24:48,596 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-JPQUPA2 with PID 17188 (started by DELL in D:\Desktop\ntf - 副本 (2))
+2023-04-03 15:24:48,597 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-04-03 15:25:05,196 INFO (StartupInfoLogger.java:59)- Started NtfApplication in 17.147 seconds (JVM running for 19.856)
+2023-04-03 15:25:29,820 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 15:25:29,821 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 15:25:37,272 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 15:25:37,273 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 15:26:09,740 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 15:26:09,741 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 15:26:14,641 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 15:26:14,642 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 15:26:35,791 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 15:26:35,792 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 15:26:44,654 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 15:26:44,655 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 15:38:50,573 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-JPQUPA2 with PID 3260 (started by DELL in D:\Desktop\ntf - 副本 (2))
+2023-04-03 15:38:50,574 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-04-03 15:39:03,504 INFO (StartupInfoLogger.java:59)- Started NtfApplication in 13.483 seconds (JVM running for 14.984)
+2023-04-03 15:40:17,350 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 15:40:17,352 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 15:40:35,754 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 15:40:35,755 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 15:41:27,875 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-JPQUPA2 with PID 5496 (started by DELL in D:\Desktop\ntf - 副本 (2))
+2023-04-03 15:41:27,876 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-04-03 15:41:39,667 INFO (StartupInfoLogger.java:59)- Started NtfApplication in 12.27 seconds (JVM running for 13.609)
+2023-04-03 15:41:45,996 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 15:41:45,996 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 15:41:54,909 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 15:41:54,911 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 15:43:33,563 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-JPQUPA2 with PID 18020 (started by DELL in D:\Desktop\ntf - 副本 (2))
+2023-04-03 15:43:33,564 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-04-03 15:43:49,101 INFO (StartupInfoLogger.java:59)- Started NtfApplication in 16.143 seconds (JVM running for 18.386)
+2023-04-03 15:44:15,517 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 15:44:15,518 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 15:45:21,919 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-JPQUPA2 with PID 15044 (started by DELL in D:\Desktop\ntf - 副本 (2))
+2023-04-03 15:45:21,920 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-04-03 15:45:33,572 INFO (StartupInfoLogger.java:59)- Started NtfApplication in 12.151 seconds (JVM running for 13.445)
+2023-04-03 15:45:55,891 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 15:45:55,891 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 16:11:00,534 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-JPQUPA2 with PID 19964 (started by DELL in D:\Desktop\ntf - 副本 (2))
+2023-04-03 16:11:00,535 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-04-03 16:11:12,547 INFO (StartupInfoLogger.java:59)- Started NtfApplication in 12.544 seconds (JVM running for 13.902)
+2023-04-03 16:11:22,474 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 16:11:22,475 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 16:13:20,361 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-JPQUPA2 with PID 18848 (started by DELL in D:\Desktop\ntf - 副本 (2))
+2023-04-03 16:13:20,362 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-04-03 16:13:31,762 INFO (StartupInfoLogger.java:59)- Started NtfApplication in 11.927 seconds (JVM running for 13.207)
+2023-04-03 16:13:41,969 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 16:13:41,970 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login
+2023-04-03 16:14:04,738 INFO (JWTTokenFilter.java:109)- filter preHandler /nftApi/nftApi/login
+2023-04-03 16:14:04,739 INFO (JWTTokenFilter.java:44)- Filter，isLoginAttempt=======================捕捉路径/nftApi/nftApi/login

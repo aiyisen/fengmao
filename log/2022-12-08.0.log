@@ -1,0 +1,6 @@
+2022-12-08 20:09:21,867 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-E8S3IGV with PID 13128 (started by ds in E:\状\ntf\ntf)
+2022-12-08 20:09:21,868 INFO (SpringApplication.java:679)- The following profiles are active: prod
+2022-12-08 20:09:40,921 INFO (StartupInfoLogger.java:59)- Started NtfApplication in 20.403 seconds (JVM running for 24.328)
+2022-12-08 20:09:52,180 INFO (RedisKeyExpirationListener.java:43)- redis过期通知,key：36.251.5.235/conWithdraw/doAllocate
+2022-12-08 20:09:58,977 INFO (RedisKeyExpirationListener.java:43)- redis过期通知,key：36.251.5.235/conWithdraw/doAllocate
+2022-12-08 20:10:36,302 INFO (RedisKeyExpirationListener.java:43)- redis过期通知,key：doAllocate_2721

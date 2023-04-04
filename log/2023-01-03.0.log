@@ -1,0 +1,125 @@
+2023-01-03 00:00:01,516 INFO (Collect.java:35)- 日活量信息入库，昨日数据:[0]，
+2023-01-03 09:34:10,740 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-E8S3IGV with PID 12680 (started by ds in E:\状\ntf\ntf)
+2023-01-03 09:34:10,742 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-01-03 09:34:39,667 INFO (StartupInfoLogger.java:59)- Started NtfApplication in 30.908 seconds (JVM running for 35.604)
+2023-01-03 09:38:08,437 INFO (PayNotifyController.java:273)- 充值成功回调：
+2023-01-03 09:38:08,439 INFO (PayNotifyController.java:286)- [接收来自连连下发的异步通知] 签名值为：null
+2023-01-03 09:38:08,439 INFO (PayNotifyController.java:287)- [接收来自连连下发的异步通知] 签名源串为：{"oid_partner":"2022121411351938","linked_agrtno":"2023010111462266","finish_time":"20230102215601","accp_txno":"2023010271884885","sub_chnl_no":"0102215556985353","payerInfo":[{"amount":"29.90","acctno":"623094*********4322","method":"AGRT_DEBIT_CARD","payer_type":"USER","payer_id":"17515254268","acctname":"张绪庆"}],"txn_type":"GENERAL_CONSUME","payeeInfo":[{"amount":"29.90","payee_id":"2022121411351938","payee_type":"MERCHANT"}],"orderInfo":{"total_amount":"29.90","txn_seqno":"594403e48ae644089198a84faf7c3a7e","txn_time":"20230102215549"},"chnl_txno":"2023010221511281","txn_status":"TRADE_SUCCESS","pay_chnl_txno":"","accounting_date":"20230102","bankcode":"01050000"} 
+2023-01-03 09:38:08,445 INFO (PayNotifyController.java:293)- 藏品订单=》SD异步通知 验签正确,请求参数：{"oid_partner":"2022121411351938","linked_agrtno":"2023010111462266","finish_time":"20230102215601","accp_txno":"2023010271884885","sub_chnl_no":"0102215556985353","payerInfo":[{"amount":"29.90","acctno":"623094*********4322","method":"AGRT_DEBIT_CARD","payer_type":"USER","payer_id":"17515254268","acctname":"张绪庆"}],"txn_type":"GENERAL_CONSUME","payeeInfo":[{"amount":"29.90","payee_id":"2022121411351938","payee_type":"MERCHANT"}],"orderInfo":{"total_amount":"29.90","txn_seqno":"594403e48ae644089198a84faf7c3a7e","txn_time":"20230102215549"},"chnl_txno":"2023010221511281","txn_status":"TRADE_SUCCESS","pay_chnl_txno":"","accounting_date":"20230102","bankcode":"01050000"} 
+2023-01-03 09:38:08,716 INFO (OrderTreasurePoolServiceImpl.java:1406)- noifitySD-in:SdNotifyBody(mid=null, orderCode=594403e48ae644089198a84faf7c3a7e, tradeNo=2023010271884885, clearDate=null, totalAmount=null, orderStatus=null, payTime=null, settleAmount=null, buyerPayAmount=null, discAmount=null, txnCompleteTime=null, payOrderCode=null, accLogonNo=null, accNo=null, midFee=null, extraFee=null, specialFee=null, plMidFee=null, bankserial=null, externalProductCode=null, cardNo=null, creditFlag=null, bid=null, fundBillList=null, benefitAmount=null, remittanceCode=null, extend=null)
+2023-01-03 09:38:08,738 INFO (OrderTreasurePoolServiceImpl.java:1411)- SD异步通知参数：SdNotifyBody(mid=null, orderCode=594403e48ae644089198a84faf7c3a7e, tradeNo=2023010271884885, clearDate=null, totalAmount=null, orderStatus=null, payTime=null, settleAmount=null, buyerPayAmount=null, discAmount=null, txnCompleteTime=null, payOrderCode=null, accLogonNo=null, accNo=null, midFee=null, extraFee=null, specialFee=null, plMidFee=null, bankserial=null, externalProductCode=null, cardNo=null, creditFlag=null, bid=null, fundBillList=null, benefitAmount=null, remittanceCode=null, extend=null)
+2023-01-03 09:38:41,221 INFO (OrderTreasurePoolServiceImpl.java:981)- 订单支付异步通知，重复！重复！重复！ 订单指纹: 594403e48ae644089198a84faf7c3a7e
+2023-01-03 09:38:50,621 INFO (PayNotifyController.java:273)- 充值成功回调：
+2023-01-03 09:38:50,622 INFO (PayNotifyController.java:286)- [接收来自连连下发的异步通知] 签名值为：null
+2023-01-03 09:38:50,623 INFO (PayNotifyController.java:287)- [接收来自连连下发的异步通知] 签名源串为：{"oid_partner":"2022121411351938","linked_agrtno":"2023010111462266","finish_time":"20230102215601","accp_txno":"2023010271884885","sub_chnl_no":"0102215556985353","payerInfo":[{"amount":"29.90","acctno":"623094*********4322","method":"AGRT_DEBIT_CARD","payer_type":"USER","payer_id":"17515254268","acctname":"张绪庆"}],"txn_type":"GENERAL_CONSUME","payeeInfo":[{"amount":"29.90","payee_id":"2022121411351938","payee_type":"MERCHANT"}],"orderInfo":{"total_amount":"29.90","txn_seqno":"594403e48ae644089198a84faf7c3a7e","txn_time":"20230102215549"},"chnl_txno":"2023010221511281","txn_status":"TRADE_SUCCESS","pay_chnl_txno":"","accounting_date":"20230102","bankcode":"01050000"} 
+2023-01-03 09:38:50,624 INFO (PayNotifyController.java:293)- 藏品订单=》SD异步通知 验签正确,请求参数：{"oid_partner":"2022121411351938","linked_agrtno":"2023010111462266","finish_time":"20230102215601","accp_txno":"2023010271884885","sub_chnl_no":"0102215556985353","payerInfo":[{"amount":"29.90","acctno":"623094*********4322","method":"AGRT_DEBIT_CARD","payer_type":"USER","payer_id":"17515254268","acctname":"张绪庆"}],"txn_type":"GENERAL_CONSUME","payeeInfo":[{"amount":"29.90","payee_id":"2022121411351938","payee_type":"MERCHANT"}],"orderInfo":{"total_amount":"29.90","txn_seqno":"594403e48ae644089198a84faf7c3a7e","txn_time":"20230102215549"},"chnl_txno":"2023010221511281","txn_status":"TRADE_SUCCESS","pay_chnl_txno":"","accounting_date":"20230102","bankcode":"01050000"} 
+2023-01-03 09:38:50,626 INFO (OrderTreasurePoolServiceImpl.java:1406)- noifitySD-in:SdNotifyBody(mid=null, orderCode=594403e48ae644089198a84faf7c3a7e, tradeNo=2023010271884885, clearDate=null, totalAmount=null, orderStatus=null, payTime=null, settleAmount=null, buyerPayAmount=null, discAmount=null, txnCompleteTime=null, payOrderCode=null, accLogonNo=null, accNo=null, midFee=null, extraFee=null, specialFee=null, plMidFee=null, bankserial=null, externalProductCode=null, cardNo=null, creditFlag=null, bid=null, fundBillList=null, benefitAmount=null, remittanceCode=null, extend=null)
+2023-01-03 09:38:50,626 INFO (OrderTreasurePoolServiceImpl.java:1411)- SD异步通知参数：SdNotifyBody(mid=null, orderCode=594403e48ae644089198a84faf7c3a7e, tradeNo=2023010271884885, clearDate=null, totalAmount=null, orderStatus=null, payTime=null, settleAmount=null, buyerPayAmount=null, discAmount=null, txnCompleteTime=null, payOrderCode=null, accLogonNo=null, accNo=null, midFee=null, extraFee=null, specialFee=null, plMidFee=null, bankserial=null, externalProductCode=null, cardNo=null, creditFlag=null, bid=null, fundBillList=null, benefitAmount=null, remittanceCode=null, extend=null)
+2023-01-03 09:39:17,591 INFO (OrderTreasurePoolServiceImpl.java:766)- 修正订单已支付状态， 订单指纹：594403e48ae644089198a84faf7c3a7e
+2023-01-03 09:40:07,527 INFO (OrderTreasurePoolServiceImpl.java:774)- 清除冻结数量
+2023-01-03 09:41:00,240 INFO (LLianPayAccpSignature.java:41)- 签名处理中，签名源内容：{"oid_partner":"2022121411351938","user_type":"INNERUSER","user_id":"17515254268","timestamp":"20230103094100"}，对应MD5值：494deb7b9bc56c24e0006412e2710e35
+2023-01-03 09:41:00,519 INFO (LLianPayClient.java:33)- 请求URL：https://accpapi.lianlianpay.com/v1/acctmgr/query-acctinfo
+2023-01-03 09:41:00,520 INFO (LLianPayClient.java:34)- 请求签名值：j0LeLhxZd8IehWfOd3n9zULL5aDPPvGKyQqTAX9H0oTSsJ5D7tOTOyI43fgYzkDEvS/IzFrGzpazV+mYreUIG1Me2ShVsC0k2eOBtdfnYDD0iGT1zm0S+ZB1BorlvMYCd9X8CcCKq22NG89T1DZ4d4caWj3RqFBBEi+UFWpcAOBy4Fc9he+GnHJfNasnajr53BZfAF69BzGrCc2dpGuLzA7f6NfmiHwGaOX3ARIMjAtoFE1VBFQysX/vifz41gmW+qQf731rLmhrKBKKr/S7r6/gzRyuHmEDwkymtSHFVkVY8byAdW4Np6pad63n0kScfl7vM/H3xwEZjbhz63WeVquvnB0xaJ6DI9GFL3ffwLvzfwBoHRda/mnGH2u8h/wzcfdPbs5+w9mUHwdvAkfrELhpVPuM5O+jO5vVO+sMdbKvRadfTW4YOUvnuHt1QbmB7pVwOSrYqBIdo6RtXOJxrtG9d4qCDmYcdL2Lu5d8fOMuVgJgOfxcfkedbeFhngr+dt5vt9NoYkDoondJcKe1sI6yRFp5GdmKvvxEkoTQmd/sqCfJIUAUW13lJneuEVMX10Av/RysbInKNjhle2QO4EUOk+BurOr+7b+RQoyq6hqYTWrDAsFXPGDjZxXMnM8VD1H9WiVSVDqH5uQi2xHl/gyGUDx/LChclJRzbipRuLo=
+2023-01-03 09:41:00,520 INFO (LLianPayClient.java:35)- 请求参数：{"oid_partner":"2022121411351938","user_type":"INNERUSER","user_id":"17515254268","timestamp":"20230103094100"}
+2023-01-03 09:41:01,609 INFO (LLianPayClient.java:70)- 响应结果：{"oid_partner":"2022121411351938","ret_code":"1002","ret_msg":"商户请求IP未报备，请联系客服处理","user_id":"17515254268"}
+2023-01-03 09:41:01,609 INFO (LLianPayClient.java:72)- 响应签名：eY0XGxYpwHDsxOMZWW8NWGngkczfT1NLVLOAlw1MNRz0DT+t5tOPj15i8p7c4XvA2tQ5TG/tNfOwSHOTqx56V2oLHVLT2diPGsiL97iVLaDbTSD0BIwaMqZc7xZuKnxR73ENy+mZ8jiBwOjlayWz6zO9g3YRWObmyTcBqpXqzCA=
+2023-01-03 09:41:01,609 INFO (LLianPayAccpSignature.java:71)- 签名验证中，源串：{"oid_partner":"2022121411351938","ret_code":"1002","ret_msg":"商户请求IP未报备，请联系客服处理","user_id":"17515254268"}，对应MD5值：2fa36ec61e1fb05533ac053155370e4d
+2023-01-03 09:41:01,610 INFO (LLianPayClient.java:80)- 响应验签通过！
+2023-01-03 09:41:01,658 INFO (LLianPayAccpSignature.java:41)- 签名处理中，签名源内容：{"accountInfo":{"account_need_level":"V3","account_type":"PERSONAL_PAYMENT_ACCOUNT"},"flag_chnl":"H5","notify_url":"http://api.fmcangping.com/nftApi/sysUserAdmin/userOpenNotify","oid_partner":"2022121411351938","timestamp":"20230103094101","txn_seqno":"7438c861-7baf-49ea-be64-bc5864a0ae9b","txn_time":"20230103094101","user_id":"17515254268","user_type":"INNERUSER"}，对应MD5值：3567b056cfc02077f60d834f35b5559f
+2023-01-03 09:41:01,759 INFO (LLianPayClient.java:33)- 请求URL：https://accpgw.lianlianpay.com/v1/acctmgr/openacct-apply
+2023-01-03 09:41:01,759 INFO (LLianPayClient.java:34)- 请求签名值：PeDDvP+uZvHDqBwIasBcdJHFRy34No8Kp1PA3h1C+CQxK1gAEQFZm02bw1XAySI9jDnYjDFGg1jB/Cy4/fsFYOU3BZusRpe5QbK+q7pbUwIhAvWH92QxiI7ipB/Lpx53h0Q8R7nIVPAAnFkCvEvB86650J9UUTtBnqi8AQpyZ0K3TJHxaD0ReSiAvcSoxh1AmScRYtTeK0SYFP6Hdb8h2E5+HRexb+74uZnaVtHo/5XmRaffgU7PeCDTrqv3u4broqAi3Myip5s3DULs13o3/W4H8/6hiFMjTQfWR4jN+OUmDNxE/cpeW2Nhx555Q3Qxyaom2QDaEVTxeIMGTotXGqcMh0KeKDezmWzqXELyAYMSQzLVmgsSHt+osPYnmmU59lsDiV3QaSZjzyMxRNGYO3FKsQIG9HWmA+rMgqTbUWFRDWj8mb5WPTlqYjy6lu5z2Jg8edfxgazs3Z4XzyUW8MAcy8mgunb0ILSIsvFUfZ2TJPFBLRb3WmE16sWB0q/TlhkiiVt/u6zVxqG8gJEOK4/BZEBr9pMjhsHlbu2AbFuWo/43ANQpWg1SypKkbZ9DC4jPm/Cni3IeGIBI+xi29I1lINdCESPC+LNwzQRhxD5fNso8IRPZ7GjTrk/2ogzZogQHt/LTsYpSQYRqzEszaH3s28WMsWfTER1KvEaIX3w=
+2023-01-03 09:41:01,760 INFO (LLianPayClient.java:35)- 请求参数：{"accountInfo":{"account_need_level":"V3","account_type":"PERSONAL_PAYMENT_ACCOUNT"},"flag_chnl":"H5","notify_url":"http://api.fmcangping.com/nftApi/sysUserAdmin/userOpenNotify","oid_partner":"2022121411351938","timestamp":"20230103094101","txn_seqno":"7438c861-7baf-49ea-be64-bc5864a0ae9b","txn_time":"20230103094101","user_id":"17515254268","user_type":"INNERUSER"}
+2023-01-03 09:41:02,115 INFO (LLianPayClient.java:70)- 响应结果：{"ret_code":"123012","ret_msg":"请求IP非法"}
+2023-01-03 09:41:02,115 INFO (LLianPayClient.java:72)- 响应签名：Q1F5J3Dbupz85ZIcEMwYKjthIpd7XFQ/Hnq1R5W9Sn375x3PQDfHYmbMLRsKR1udwWjyy9aoE3VS5UwmFymBO3ngN7RlNOfkyBYEKOdgEKKUKmPtXCikA2L1a+lfTr5jLUkbltXYFbfWpNjO3dX6Si0VVi23Ht/Yg2NLRbolr64=
+2023-01-03 09:41:02,116 INFO (LLianPayAccpSignature.java:71)- 签名验证中，源串：{"ret_code":"123012","ret_msg":"请求IP非法"}，对应MD5值：8c02bf50c79f319d05586f8e0bccb0ff
+2023-01-03 09:41:02,117 INFO (LLianPayClient.java:80)- 响应验签通过！
+2023-01-03 09:41:02,586 ERROR (OrderTreasurePoolServiceImpl.java:1414)- noifityWXin-error:{}
+java.lang.RuntimeException: 暂无可分配藏品编号请稍后再试
+	at com.qy.ntf.service.impl.OrderTreasurePoolServiceImpl.getEmptyTreaRecord(OrderTreasurePoolServiceImpl.java:1662)
+	at com.qy.ntf.service.impl.OrderTreasurePoolServiceImpl.updateOrderByNotify(OrderTreasurePoolServiceImpl.java:797)
+	at com.qy.ntf.service.impl.OrderTreasurePoolServiceImpl.noifitySD(OrderTreasurePoolServiceImpl.java:1412)
+	at com.qy.ntf.service.impl.OrderTreasurePoolServiceImpl$$FastClassBySpringCGLIB$$4118e18a.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:684)
+	at com.qy.ntf.service.impl.OrderTreasurePoolServiceImpl$$EnhancerBySpringCGLIB$$73d5665b.noifitySD(<generated>)
+	at com.qy.ntf.service.impl.OrderTreasurePoolServiceImpl$$FastClassBySpringCGLIB$$4118e18a.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:684)
+	at com.qy.ntf.service.impl.OrderTreasurePoolServiceImpl$$EnhancerBySpringCGLIB$$b4500895.noifitySD(<generated>)
+	at com.qy.ntf.controller.PayNotifyController.llorderTreasure(PayNotifyController.java:300)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:61)
+	at org.apache.shiro.web.servlet.AdviceFilter.executeChain(AdviceFilter.java:108)
+	at org.apache.shiro.web.servlet.AdviceFilter.doFilterInternal(AdviceFilter.java:137)
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125)
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:66)
+	at org.apache.shiro.web.servlet.AdviceFilter.executeChain(AdviceFilter.java:108)
+	at org.apache.shiro.web.servlet.AdviceFilter.doFilterInternal(AdviceFilter.java:137)
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125)
+	at org.apache.shiro.web.servlet.ProxiedFilterChain.doFilter(ProxiedFilterChain.java:66)
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.executeChain(AbstractShiroFilter.java:450)
+	at org.apache.shiro.web.servlet.AbstractShiroFilter$1.call(AbstractShiroFilter.java:365)
+	at org.apache.shiro.subject.support.SubjectCallable.doCall(SubjectCallable.java:90)
+	at org.apache.shiro.subject.support.SubjectCallable.call(SubjectCallable.java:83)
+	at org.apache.shiro.subject.support.DelegatingSubject.execute(DelegatingSubject.java:387)
+	at org.apache.shiro.web.servlet.AbstractShiroFilter.doFilterInternal(AbstractShiroFilter.java:362)
+	at org.apache.shiro.web.servlet.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:125)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:836)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1747)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2023-01-03 14:20:44,704 INFO (RedisKeyExpirationListener.java:43)- redis过期通知,key：spring:session:sessions:expires:5ca00d6d-664f-4175-9b42-b84c38710b06
+2023-01-03 14:25:44,642 INFO (RedisKeyExpirationListener.java:43)- redis过期通知,key：spring:session:sessions:5ca00d6d-664f-4175-9b42-b84c38710b06
+2023-01-03 15:16:07,103 INFO (RedisKeyExpirationListener.java:43)- redis过期通知,key：spring:session:sessions:expires:7a308c2b-29f6-4f0e-a60d-864b7d4bf428
+2023-01-03 15:21:06,983 INFO (RedisKeyExpirationListener.java:43)- redis过期通知,key：spring:session:sessions:7a308c2b-29f6-4f0e-a60d-864b7d4bf428

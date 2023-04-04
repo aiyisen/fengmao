@@ -1,0 +1,10 @@
+2023-03-31 13:58:07,957 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-JPQUPA2 with PID 13688 (started by DELL in D:\Desktop\ntf - 副本 (2))
+2023-03-31 13:58:07,957 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-03-31 14:30:37,629 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-JPQUPA2 with PID 12260 (started by DELL in D:\Desktop\ntf - 副本 (2))
+2023-03-31 14:30:37,629 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-03-31 14:42:58,046 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-JPQUPA2 with PID 17580 (started by DELL in D:\Desktop\ntf - 副本 (2))
+2023-03-31 14:42:58,046 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-03-31 14:48:54,262 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-JPQUPA2 with PID 18236 (started by DELL in D:\Desktop\ntf - 副本 (2))
+2023-03-31 14:48:54,262 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-03-31 17:44:06,190 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-JPQUPA2 with PID 18408 (started by DELL in D:\Desktop\ntf - 副本 (2))
+2023-03-31 17:44:06,192 INFO (SpringApplication.java:679)- The following profiles are active: dev

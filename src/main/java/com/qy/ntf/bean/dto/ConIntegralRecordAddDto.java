@@ -1,0 +1,47 @@
+package com.qy.ntf.bean.dto;
+
+import com.qy.ntf.base.BaseEntity;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import lombok.Data;
+/**
+ * @author 王振读
+ * 2022-05-25 19:27:16
+ * DESC : 积分流水记录（记录总和>=0) 添加参数
+ */
+@Data
+@ApiModel(value = "积分流水记录（记录总和>=0) 添加参数", description = "积分流水记录（记录总和>=0) 添加参数")
+public class ConIntegralRecordAddDto extends BaseEntity {
+
+
+    
+        /**
+     * 
+     */
+    @ApiModelProperty(value = "", example = "", required = true)
+    private Long id;
+        
+        /**
+     * 用户id
+     */
+    @ApiModelProperty(value = "用户id", example = "用户id", required = true)
+    private Long uId;
+        
+        /**
+     * 积分记录类型0登录赠送1邀请好友赠送2订单消费
+     */
+    @ApiModelProperty(value = "积分记录类型0登录赠送1邀请好友赠送2订单消费", example = "积分记录类型0登录赠送1邀请好友赠送2订单消费", required = true)
+    private Integer recordType;
+        
+        /**
+     * 涉及积分总量
+     */
+    @ApiModelProperty(value = "涉及积分总量", example = "涉及积分总量", required = true)
+    private Integer metaCount;
+        
+        
+        
+        
+        
+        
+}

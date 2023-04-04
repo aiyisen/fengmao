@@ -1,0 +1,52 @@
+package com.qy.ntf.bean.param;
+
+/**
+ * 签约申请验证 请求
+ *
+ * @author liuwm@yintong.com.cn
+ * @date
+ */
+public class BankcardBindVerfyRequestBean extends BaseRequestBean {
+  /** 商户唯一订单号 商户系统唯一订单号 */
+  private String no_order;
+
+  /** token 授权码 */
+  private String token;
+
+  /** 短信验证码 */
+  private String verify_code;
+  /** 用户ID */
+  private String user_id;
+
+  public String getNo_order() {
+    return no_order;
+  }
+
+  public void setNo_order(String no_order) {
+    this.no_order = no_order;
+  }
+
+  public String getToken() {
+    return token;
+  }
+
+  public void setToken(String token) {
+    this.token = token;
+  }
+
+  public String getVerify_code() {
+    return verify_code;
+  }
+
+  public void setVerify_code(String verify_code) {
+    this.verify_code = verify_code;
+  }
+
+  public String getUser_id() {
+    return user_id;
+  }
+
+  public void setUser_id(String user_id) {
+    this.user_id = user_id;
+  }
+}

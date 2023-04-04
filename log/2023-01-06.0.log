@@ -1,0 +1,7 @@
+2023-01-06 00:00:00,701 INFO (Collect.java:35)- 日活量信息入库，昨日数据:[2]，
+2023-01-06 00:16:40,542 INFO (RedisKeyExpirationListener.java:43)- redis过期通知,key：spring:session:sessions:expires:3261b187-eec0-4e46-a98f-6229cecab735
+2023-01-06 00:21:40,583 INFO (RedisKeyExpirationListener.java:43)- redis过期通知,key：spring:session:sessions:3261b187-eec0-4e46-a98f-6229cecab735
+2023-01-06 00:21:40,801 INFO (RedisKeyExpirationListener.java:43)- redis过期通知,key：spring:session:expirations:1672935420000
+2023-01-06 16:55:18,620 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-E8S3IGV with PID 18348 (started by ds in E:\状\ntf\ntf)
+2023-01-06 16:55:18,622 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-01-06 16:55:45,085 INFO (StartupInfoLogger.java:59)- Started NtfApplication in 28.7 seconds (JVM running for 30.889)

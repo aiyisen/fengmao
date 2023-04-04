@@ -1,0 +1,61 @@
+spring:
+  application.name: system-service
+
+  #  zipkin:
+  #    base-url: http://192.168.1.211:9411
+
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: "jdbc:mysql://localhost:3306/11touch?useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8"
+    username: root
+    password:
+  
+
+  redis:
+    #    host: 39.107.247.125
+    host: localhost
+    port: 6379
+    password:
+    database: 5
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 100MB
+swagger:
+  enable: true
+server:
+  port: 8090
+
+
+mybatis-plus:
+  global-config:
+    db-config:
+      id-type: auto
+      field-strategy: not_empty
+      #驼峰下划线转换
+      column-underline: false
+      #逻辑删除配置
+      logic-delete-value: 0
+      logic-not-delete-value: 1
+      db-type: mysql
+    refresh: false
+  configuration:
+    map-underscore-to-camel-case: false
+    cache-enabled: false
+#==========JWT配置==========start
+jwt:
+  secret: secret # 密钥
+  expiration: 31536000000 # 默认失效时长
+#==========JWT配置==========end
+#===========上传文件路径======#
+file:
+  #  upload-path: /home/tms/upload
+  upload-path: c:/tmp/img
+password-key: qy
+aliyun:
+  sign:
+    appkey: 204079199
+    appCode: 196ed7eb07c447cdbe8921574e7b055a
+UM:
+  appkey: 62a98d7e88ccdf4b7e98dbad

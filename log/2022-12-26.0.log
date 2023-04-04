@@ -1,0 +1,16 @@
+2022-12-26 19:33:04,563 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-E8S3IGV with PID 3908 (started by ds in E:\状\ntf\ntf)
+2022-12-26 19:33:04,565 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2022-12-26 19:33:37,924 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-E8S3IGV with PID 16656 (started by ds in E:\状\ntf\ntf)
+2022-12-26 19:33:37,925 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2022-12-26 19:35:35,177 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-E8S3IGV with PID 6260 (started by ds in E:\状\ntf\ntf)
+2022-12-26 19:35:35,178 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2022-12-26 19:48:31,220 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-E8S3IGV with PID 14332 (started by ds in E:\状\ntf\ntf)
+2022-12-26 19:48:31,222 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2022-12-26 19:48:59,300 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-E8S3IGV with PID 15396 (started by ds in E:\状\ntf\ntf)
+2022-12-26 19:48:59,301 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2022-12-26 19:59:30,289 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-E8S3IGV with PID 1328 (started by ds in E:\状\ntf\ntf)
+2022-12-26 19:59:30,291 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2022-12-26 20:04:44,303 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-E8S3IGV with PID 10852 (started by ds in E:\状\ntf\ntf)
+2022-12-26 20:04:44,305 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2022-12-26 20:12:27,883 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-E8S3IGV with PID 1788 (started by ds in E:\状\ntf\ntf)
+2022-12-26 20:12:27,884 INFO (SpringApplication.java:679)- The following profiles are active: test

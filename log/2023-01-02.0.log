@@ -1,0 +1,18 @@
+2023-01-02 20:05:09,157 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-E8S3IGV with PID 10672 (started by ds in E:\状\ntf\ntf)
+2023-01-02 20:05:09,158 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-01-02 20:06:11,101 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-E8S3IGV with PID 1720 (started by ds in E:\状\ntf\ntf)
+2023-01-02 20:06:11,102 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-01-02 20:06:32,809 INFO (StartupInfoLogger.java:59)- Started NtfApplication in 22.453 seconds (JVM running for 24.002)
+2023-01-02 20:11:49,431 INFO (PayNotifyController.java:273)- 充值成功回调：
+2023-01-02 20:11:49,432 INFO (PayNotifyController.java:286)- [接收来自连连下发的异步通知] 签名值为：null
+2023-01-02 20:11:49,433 INFO (PayNotifyController.java:287)- [接收来自连连下发的异步通知] 签名源串为：{    "accp_txno": "2023010271737120",    "gateway_url": "https://accpgw.lianlianpay.com/mpay-cashier?token=35b96e81907f768b669fb5aeb22ee3f8",    "oid_partner": "2022121411351938",    "ret_code": "0000",    "ret_msg": "交易成功",    "total_amount": "29.9",    "txn_seqno": "5d910e2fcb0545eaaa49659a0ffb2d73",    "user_id": "15007910152"}
+2023-01-02 20:12:41,013 INFO (LLianPayAccpSignature.java:71)- 签名验证中，源串：{    "accp_txno": "2023010271737120",    "gateway_url": "https://accpgw.lianlianpay.com/mpay-cashier?token=35b96e81907f768b669fb5aeb22ee3f8",    "oid_partner": "2022121411351938",    "ret_code": "0000",    "ret_msg": "交易成功",    "total_amount": "29.9",    "txn_seqno": "5d910e2fcb0545eaaa49659a0ffb2d73",    "user_id": "15007910152"}，对应MD5值：13c1650aa1b4c22bfbbe52e12595bf87
+2023-01-02 20:12:41,043 ERROR (RSASign.java:72)- 签名验证异常,null
+2023-01-02 20:12:41,044 ERROR (PayNotifyController.java:302)- 验签失败！！！
+2023-01-02 20:13:31,137 INFO (StartupInfoLogger.java:50)- Starting NtfApplication on DESKTOP-E8S3IGV with PID 15252 (started by ds in E:\状\ntf\ntf)
+2023-01-02 20:13:31,138 INFO (SpringApplication.java:679)- The following profiles are active: dev
+2023-01-02 20:13:46,366 INFO (StartupInfoLogger.java:59)- Started NtfApplication in 16.344 seconds (JVM running for 17.905)
+2023-01-02 20:13:50,014 INFO (PayNotifyController.java:273)- 充值成功回调：
+2023-01-02 20:13:50,015 INFO (PayNotifyController.java:286)- [接收来自连连下发的异步通知] 签名值为：null
+2023-01-02 20:13:50,015 INFO (PayNotifyController.java:287)- [接收来自连连下发的异步通知] 签名源串为：{    "accp_txno": "2023010271737120",    "gateway_url": "https://accpgw.lianlianpay.com/mpay-cashier?token=35b96e81907f768b669fb5aeb22ee3f8",    "oid_partner": "2022121411351938",    "ret_code": "0000",    "ret_msg": "交易成功",    "total_amount": "29.9",    "txn_seqno": "5d910e2fcb0545eaaa49659a0ffb2d73",    "user_id": "15007910152"}
+2023-01-02 20:13:50,016 INFO (PayNotifyController.java:293)- 藏品订单=》SD异步通知 验签正确,请求参数：{    "accp_txno": "2023010271737120",    "gateway_url": "https://accpgw.lianlianpay.com/mpay-cashier?token=35b96e81907f768b669fb5aeb22ee3f8",    "oid_partner": "2022121411351938",    "ret_code": "0000",    "ret_msg": "交易成功",    "total_amount": "29.9",    "txn_seqno": "5d910e2fcb0545eaaa49659a0ffb2d73",    "user_id": "15007910152"}
